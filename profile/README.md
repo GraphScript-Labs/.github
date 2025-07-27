@@ -1,4 +1,4 @@
-![GraphScript](https://github.com/GraphScript-Labs/.github/blob/99fbdbea4da60e7cfc66417680ab3ce6caee0f71/Banner.png)
+![GraphScript](https://github.com/GraphScript-Labs/.github/blob/main/Banner.png?raw=true)
 
 # 🎛️ GraphScript (GS)
 
