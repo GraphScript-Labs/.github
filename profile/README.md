@@ -16,8 +16,18 @@ Instead of writing code line by line, users define scripts by visually linking c
 
 GraphScript is powered by multiple tools, working together:
 
-| Tool | Description |
-| --- | --- |
-| 🔧 graphscript-editor | Web-based GUI to create and edit graph-based scripts visually. |
-| ⚙️ gsam-compiler | Compiler that parses and transforms GS scripts into executable graph  code. |
-| 🖥️ gs-desktop-service | Cross-platform local runtime service to execute and manage GraphScript projects. |
+| 🛠️ **Tool**                         | **Description**                                                                                      |
+|------------------------------------|------------------------------------------------------------------------------------------------------|
+| ✏️ **editor**                      | Node-based visual scripting editor for building logic flows in GraphScript.                         |
+| 🧠 **gsam-compiler**               | GSAM scripting language using runnable nodes for executing logic flows.                             |
+| 🐍 **runtimes**                    | Platform-specific standalone Python runtimes for GraphScript Engine and tools.                       |
+| 💬 **console**                     | Visual terminal for sending input to the GSAM and receiving real-time output.                       |
+| 🖥️ **desktop-service**            | Background utility that enables seamless usage, auto-updates, and syncing across GraphScript tools. |
+| 📦 **installer**                   | Builds and packages the GraphScript application into a ready-to-distribute format for platforms.     |
+| 🖼️ **installer-fe**               | UI for the GraphScript Installer, used for directory selection and setup.                           |
+| 🚀 **launcher**                    | Self-updating launcher and project manager for GraphScript projects.                                |
+| 📘 **guidebook**                   | Official guidebook for using the GraphScript visual scripting environment.                          |
+| 📚 **docs**                        | Documentation hub for the GraphScript ecosystem.                                                     |
+| 🌐 **graphscript-labs.github.io** | Official landing page for GraphScript, maintained via GitHub Pages.                                 |
+| 🏢 **.github**                     | GraphScript organization’s profile repository and README configuration.                             |
+
