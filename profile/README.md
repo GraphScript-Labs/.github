@@ -31,3 +31,6 @@ GraphScript is powered by multiple tools, working together:
 | 🌐 **graphscript-labs.github.io** | Official landing page for GraphScript, maintained via GitHub Pages.                                 |
 | 🏢 **.github**                     | GraphScript organization’s profile repository and README configuration.                             |
 
+## 🌏 Communities
+
+- [Join the Discord Community!](https://discord.gg/wqxrRHZwNN)
